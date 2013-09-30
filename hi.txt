@@ -1,6 +1,2 @@
 Plain file
-<<<<<<< HEAD
-[change from git 2 workspace]
-=======
-[change from git 1 workspace]
->>>>>>> 160bd410cb366211f5d6caae34f46cdbc587d721
+ch2 from g2
