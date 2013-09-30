@@ -1,2 +1,2 @@
 Plain file
-ch2 from g2
+ch1 from g1
