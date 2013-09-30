@@ -1,2 +1,3 @@
 Plain file
 ch1 from g1 - edited
+ch2 from g2
