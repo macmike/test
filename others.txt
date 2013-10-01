@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 others thingy
+=======
+other stuff
+>>>>>>> 66428762336121f060c23ec6c4fbf6ddc7d7774b
