@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 other commands weird
+=======
+<<<<<<< HEAD
+other commands and stuff
+=======
+other commands
+>>>>>>> b9c919be33f580546c4c086827b1324c4fb6a255
+>>>>>>> 82b20be8c21bc30329253085c2494ff482f25b30
