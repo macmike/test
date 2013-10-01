@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-other commands and stuff
-=======
-other commands
->>>>>>> b9c919be33f580546c4c086827b1324c4fb6a255
+others thingy
