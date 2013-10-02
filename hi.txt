@@ -1,8 +1,0 @@
-Plain file
-<<<<<<< HEAD
-ch1 from g1 - edited from 1
-ch2 from g2 - edited from 1
-=======
-ch1 from g1 - edited
-ch2 from g2 - plarg edited from 2
->>>>>>> f085f1173de5b26b0e10789b8fb12b80fd456e29
