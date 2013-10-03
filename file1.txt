@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 g1
+=======
+other things from g2
+>>>>>>> 1dc454833cf3bb74fc85cbc1a99c252fa61d3ccc
