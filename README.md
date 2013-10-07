@@ -1,3 +1,3 @@
-test
+Test Repository for SimpleGit and SimpleSCM
 ====
-other change
+Some blurb and a link?
