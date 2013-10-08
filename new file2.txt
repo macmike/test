@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Some stuff
-blags
-=======
-Some stuff and things
->>>>>>> ec6998b829e50f831428ab85a4321cc7ef97c811
+conflict file

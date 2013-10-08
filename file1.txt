@@ -1,2 +1,0 @@
-hello from g2
-conflict from g1
