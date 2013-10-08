@@ -1,2 +1,1 @@
-conflict file
-2nd line from 2
+conflict file - change from 1
