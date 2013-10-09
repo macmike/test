@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-others
-=======
-stuff
-
->>>>>>> a537baeedebbc584f96bff7bfd68ae10eae57b08
