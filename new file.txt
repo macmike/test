@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-stuff init
-=======
-<<<<<<< HEAD
-others
-=======
 stuff
->>>>>>> c760ebdb526123190323c8eb30b49b438967d541
-
->>>>>>> a537baeedebbc584f96bff7bfd68ae10eae57b08
