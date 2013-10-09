@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sutff
+=======
+How does this happen?
+>>>>>>> c6e516b178e3cfe774209d4444ff22f935f6f645
